@@ -1,0 +1,24 @@
+Uri: https://mememasterai.com/
+File Name: C:\Downloaded Web Sites\mememasterai.com\index.htm
+Content Type: text/html
+
+Uri: https://mememasterai.com/favicon.ico
+File Name: C:\Downloaded Web Sites\mememasterai.com\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://mememasterai.com/logo192.png
+File Name: C:\Downloaded Web Sites\mememasterai.com\logo192.png
+Content Type: image/png
+
+Uri: https://mememasterai.com/manifest.json
+File Name: C:\Downloaded Web Sites\mememasterai.com\manifest.json
+Content Type: application/json
+
+Uri: https://mememasterai.com/static/css/main.a1cf6756.css
+File Name: C:\Downloaded Web Sites\mememasterai.com\static\css\main.a1cf6756.css
+Content Type: text/css
+
+Uri: https://mememasterai.com/static/js/main.7be0a246.js
+File Name: C:\Downloaded Web Sites\mememasterai.com\static\js\main.7be0a246.js
+Content Type: application/x-javascript
+
